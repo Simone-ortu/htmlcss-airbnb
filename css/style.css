@@ -16,7 +16,7 @@ h2{
 }
 .container{
   width: 500px;
-  height: 800px;
+  height: 2500px;
 }
 .citybox{
   width: 498px;
@@ -42,6 +42,16 @@ h2{
 }
 #Praga{
   background-image: url('https://cdn.pixabay.com/photo/2018/07/15/23/25/prague-3540898_960_720.jpg');
+  background-size:cover;
+  background-position: center;
+}
+#Amsterdam{
+  background-image: url('https://cdn.pixabay.com/photo/2019/05/26/18/27/bridge-4230946__340.jpg');
+  background-size:cover;
+  background-position: center;
+}
+#London{
+  background-image: url('https://cdn.pixabay.com/photo/2016/12/11/23/26/london-1900570__340.jpg');
   background-size:cover;
   background-position: center;
 }
