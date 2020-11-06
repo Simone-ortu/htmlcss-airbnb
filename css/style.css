@@ -16,8 +16,13 @@
   position: relative;
 }
 
-#cityprova{
+#Venice{
   background-image: url('https://cdn.pixabay.com/photo/2016/03/24/12/34/venice-1276664__340.jpg');
+  background-size:cover;
+  background-position: center;
+}
+#Praga{
+  background-image: url('https://cdn.pixabay.com/photo/2018/07/15/23/25/prague-3540898_960_720.jpg');
   background-size:cover;
   background-position: center;
 }
@@ -26,7 +31,7 @@ h2{
   font-size: 22px;
   color: white;
 }
-.citybox .layover{
+.layover h2{
   position: absolute;
   top: 50%;
   left: 50%;
