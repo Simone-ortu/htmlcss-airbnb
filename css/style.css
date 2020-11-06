@@ -2,6 +2,18 @@
   margin: auto;
   padding: 0;
 }
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  text-transform: uppercase;
+  text-shadow: 4px 4px 8px #000000
+}
 .container{
   width: 500px;
   height: 800px;
@@ -25,16 +37,4 @@
   background-image: url('https://cdn.pixabay.com/photo/2018/07/15/23/25/prague-3540898_960_720.jpg');
   background-size:cover;
   background-position: center;
-}
-h2{
-  font-family: 'Open Sans', sans-serif;
-  font-size: 22px;
-  color: white;
-}
-.layover h2{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  text-align: center;
-  transform: translate(-50%, -50%);
 }
