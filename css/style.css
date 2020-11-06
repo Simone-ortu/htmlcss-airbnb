@@ -12,19 +12,17 @@ h2{
   text-align: center;
   transform: translate(-50%, -50%);
   text-transform: uppercase;
-  text-shadow: 4px 4px 8px #000000
+  text-shadow: 4px 4px 8px #000000;
 }
 .container{
   width: 500px;
   height: 800px;
-  background-color: yellow;
 }
 .citybox{
   width: 498px;
   height: 500px;
   border: 2px solid white;
   margin-top: 15px;
-  background-color: blue;
   position: relative;
 }
 .citybox .layover{
