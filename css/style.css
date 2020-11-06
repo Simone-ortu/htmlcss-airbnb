@@ -14,6 +14,9 @@
 }
 
 #cityprova{
-  background-image: url('https://cdn.pixabay.com/photo/2018/02/26/14/22/venice-3183168__340.jpg');
+  background-image: url('https://cdn.pixabay.com/photo/2016/03/24/12/34/venice-1276664__340.jpg');
+  background-size:cover;
+  background-position: center;
+
 
 }
