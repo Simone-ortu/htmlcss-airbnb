@@ -1,0 +1,14 @@
+*{
+  margin: auto;
+  padding: 0;
+}
+.container{
+  width: 500px;
+  height: 800px;
+  background-color: yellow;
+}
+.citybox{
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+}
